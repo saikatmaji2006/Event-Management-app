@@ -1,0 +1,10 @@
+.text-container {
+  display: flex;
+  position: relative;
+}
+ 
+.textroot-class-name {
+  top: 153px;
+  left: 383px;
+  position: absolute;
+}
